@@ -9,7 +9,7 @@
 
 # Who am I?
 
-Ernesto X. Vera Gómez is an Economist with a Specialisation in International Economics and Management in Foreign Trade from the University of Guayaquil in Ecuador [https://www.ug.edu.ec/](), Master of Economic Sciences from the Metropolitan Autonomous University (UAM) [https///www.uam.mx/]() and candidate for a PhD in Economics at the UAM. I was co-organizer, Dr. Isaac Pérez C. and Dr. Ignacio Llamas H., of the seminar "Complexity Economics". It also organizes the programming seminar in Julia. His lines of research of interest are Economic Complexity, Agent Based Modeling, Stochastic Processes, Networks and social networks, Market Design, Generation and formation of expectations in Financial Markets.
+Ernesto X. Vera Gómez is an Economist with a Specialization in International Economics and Management in Foreign Trade from the University of Guayaquil in Ecuador [https://www.ug.edu.ec/](), Master of Economic Sciences from the Metropolitan Autonomous University (UAM) [https///www.uam.mx/]() and candidate for a PhD in Economics at the UAM. I was co-organizer, Dr. Isaac Pérez C. and Dr. Ignacio Llamas H., of the seminar "Complexity Economics". It also organizes the programming seminar in Julia. His lines of research of interest are Economic Complexity, Agent Based Modeling, Stochastic Processes, Networks and social networks, Market Design, Generation and formation of expectations in Financial Markets.
 
 
 
