@@ -9,7 +9,9 @@
 
 # Who am I?
 
-Ernesto X. Vera Gómez is an Economist with a Specialization in International Economics and Management in Foreign Trade from the University of Guayaquil in Ecuador [https://www.ug.edu.ec/](), Master of Economic Sciences from the Metropolitan Autonomous University (UAM) [https///www.uam.mx/]() and candidate for a PhD in Economics at the UAM. I was co-organizer, Dr. Isaac Pérez C. and Dr. Ignacio Llamas H., of the seminar "Complexity Economics". It also organizes the programming seminar in Julia. His lines of research of interest are Economic Complexity, Agent Based Modeling, Stochastic Processes, Networks and social networks, Market Design, Generation and formation of expectations in Financial Markets.
+Ernesto X. Vera Gómez is an Economist with a Specialization in International Economics and Management in Foreign Trade at the Universidad de Guayaquil in Ecuador [https://www.ug.edu.ec/](), Master of Economic Sciences from the Metropolitan Autonomous University (UAM) [https///www.uam.mx/]() and candidate for a PhD in Economics at the UAM. I was co-organizer of the seminar "Complexity Economics". It also organizes the programming seminar in Julia. 
+
+His lines of research of interest are Economic Complexity, Agent Based Modeling, Stochastic Processes, Networks and social networks, Market Design, Generation and formation of expectations in Financial Markets.
 
 
 
@@ -25,63 +27,67 @@ Ernesto X. Vera Gómez is an Economist with a Specialization in International Ec
 ## Educational training
 * **Phd candidate in  Economic  Science** (2024) 
   * Metropolitan Autonomous University - Mexico City, Mexico 
-  * Thesis: *Complex Adaptive Expectations (CAE) and Dynamics in the Speculative Markets of the Financial System.*
+  * **Thesis**: *Complex Adaptive Expectations (CAE) and Dynamics in the Speculative Markets of the Financial System.*
+  * **Skills**: Agent Based Models, Artificial Markets Design, Complexity Economics, Econophysics, Finance, Computational Simulations, Programming with Julia, Evolutionary Game Theory, Probability Theory, Statistics, Advanced Calculus and Linear Algebra. 
 * **Master degree in Economic  Science** (2020) 
   * Metropolitan Autonomous University - Mexico City, Mexico 
-  * Thesis: *Complex Adaptive Expectations. A theoretical approach from complexity.*
+  * **Thesis**: *Complex Adaptive Expectations. A theoretical approach from complexity.*
+  * **Skills**: Complexity Theory, Finance, Behavioral Economics, Microeconomic theory, Agent Based Models and Markets Design.
 * **Graduate in  Economist with a Specialisation in International Economics and Management in Foreign Trade** (2017)    
   * University of Guayaquil - Guayaquil, Ecuador
-  * Thesis: *Impacts of Foreign Direct Investment Extractive Energy and Non Extractive Energy in Gross Value Added (GVA), Mesured by SVEC Model in Ecuador, period 2007 - 2015*
+  * **Thesis**: *Impacts of Foreign Direct Investment Extractive Energy and Non Extractive Energy in Gross Value Added (GVA), Mesured by SVEC Model in Ecuador, period 2007 - 2015*
+  * **Skills**: Econometrics, Statistics, Data Analysis, Programming with R and Python.
 * **Bachelor degrees in Mathematics and Physics** (2009)
   * Jose Joaquín Pino Icaza School - Guayaquil,  Ecuador
+  * **Skills**: Mhathematics, Informatics and Physics.
   
 ### Certificates
-* Daily Study Group: Programming Tutorials from WOLFRAM RESEARCH INC. With a total of 25 hours in 2021. [https://www.bigmarker.com/wolfram-u/gen201-2022-aug?utm_bmcr_source=digest]()
+* *Daily Study Group: Programming Tutorials* at the WOLFRAM RESEARCH INC. With a total of 25 hours in 2021. [https://www.bigmarker.com/wolfram-u/gen201-2022-aug?utm_bmcr_source=digest]()
 
-* Introduction to Julia (for programmers) from MASSACHUSETTS INSTITUTE OF TECHNOLOGY. With a total of 2 hours in 2021. [https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/]()
+* *Introduction to Julia (for programmers)* at the MASSACHUSETTS INSTITUTE OF TECHNOLOGY. With a total of 2 hours in 2021. [https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/]()
 
-* Financial Data Retrieval with Forecasting and Analyzing Stock Prices from WOLFRAM RESEARCH INC. With a total of 2 hours in 2021. [https://www.wolfram.com/wolfram-u]()
+* *Financial Data Retrieval with Forecasting and Analyzing Stock Prices* at the WOLFRAM RESEARCH INC. With a total of 2 hours in 2021. [https://www.wolfram.com/wolfram-u]()
 
-* Wolfram Technologies for Business Research and Teaching from WOLFRAM RESEARCH INC. With a total of 2 hours in 2021. [https://www.wolfram.com/wolfram-u]() 
+* *Wolfram Technologies for Business Research and Teaching* at the WOLFRAM RESEARCH INC. With a total of 2 hours in 2021. [https://www.wolfram.com/wolfram-u]() 
 
-* Computational Modeling in Julia with Applications to the COVID-19 Pandemic from MASSACHUSETTS INSTITUTE OF TECHNOLOGY. With a total of 25 hours in  2021. [https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/]()
+* *Computational Modeling in Julia with Applications to the COVID-19 Pandemic* at the MASSACHUSETTS INSTITUTE OF TECHNOLOGY. With a total of 25 hours in  2021. [https://ocw.mit.edu/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/]()
 
-* Guide to publishing  a quality article from EMERALD GROUP PUBLISHING LIMITED. With a total of 2 hours in 2021.
+* *Guide to publishing  a quality article* at the EMERALD GROUP PUBLISHING LIMITED. With a total of 2 hours in 2021.
 
 ### Workshops and courses 
-* Financial Markets course (virtual) from YALE UNIVERSITY in 2021. [https://coursera.org/share/51c91a9b12b95420b06df1ab92bf4945]()
+* *Financial Markets course* (virtual) at the YALE UNIVERSITY in 2021. [https://coursera.org/share/51c91a9b12b95420b06df1ab92bf4945]()
 
-* Analysis Coomplexity course (virtual) from MACQUARIE UNIVERSITY in  2021. [https://coursera.org/share/918a825cf367ee3131350ce7a0f02eb8]()
+* *Analysis Coomplexity course* (virtual) at the MACQUARIE UNIVERSITY in  2021. [https://coursera.org/share/918a825cf367ee3131350ce7a0f02eb8]()
 
-* Networks and Dynamical Systems: An International Workshop (virtual seminar) from INDIAN INSTITUTE OF TECHNOLOGY MADRAS in 2021. 
+* *Networks and Dynamical Systems: An International Workshop* (virtual seminar) at the INDIAN INSTITUTE OF TECHNOLOGY MADRAS in 2021. 
 
-* Participant of the  Complexity Weekend organized by the SANTA FE INSTITUTE (SFI). [https://www.complexityexplorer.org/]()
+* Participant of the  *Complexity Weekend* organized by the SANTA FE INSTITUTE (SFI). [https://www.complexityexplorer.org/]()
 
-* Econometric Modeling  with Cross-sectional Data, organized  in Mexico City by the Universidad Autónoma Metropolitana (Azcapotzalco) with a total of 20 academic hours.
+* *Econometric Modeling with Cross-sectional Data*, organized  in Mexico City by the Universidad Autónoma Metropolitana (Azcapotzalco) with a total of 20 academic hours.
 
-* Introduction to Econometric Modeling with STATA, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco) with a total of 20 academic hours. 
+* *Introduction to Econometric Modeling with STATA*, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco) with a total of 20 academic hours. 
 
-* Game Theory and its Application in our Decisions, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco) with a total of 21 academic hours.
+* *Game Theory and its Application in our Decisions*, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco) with a total of 21 academic hours.
 
-* I International Congress of Economy, organized in the cite of  Guayaquil by the Faculty of Economic Sciences of the University of Guayaquil, on 22, 23 and 24 February 2017, with a total of 30 academic hours.
+* *I International Congress of Economy*, organized in the cite of  Guayaquil by the Faculty of Economic Sciences of the University of Guayaquil, on 22, 23 and 24 February 2017, with a total of 30 academic hours.
 
-* IV International Congress on Economics, organized in the city of Cuenca by the Faculty of Economic Sciences of the University of Cuenca and the Mathematics Department of the National Potytechnic School, 21, 22 and 23 September 2016, with a  total of 30 academic hours.
+* *IV International Congress on Economics*, organized in the city of Cuenca by the Faculty of Economic Sciences of the University of Cuenca and the Mathematics Department of the National Potytechnic School, 21, 22 and 23 September 2016, with a  total of 30 academic hours.
 
-* Evaluation of Public Policies with econometric models course, organized by the Superior Technical Institute Cristo Rey in the computer laboratories of the Faculty of  Economic Sciences of the University of Guayaquil on 12, 13, 14 and 15 September 2014, wwith a duration of 24 academic hours.
+* *Evaluation of Public Policies with econometric models course*, organized by the Superior Technical Institute Cristo Rey in the computer laboratories of the Faculty of  Economic Sciences of the University of Guayaquil on 12, 13, 14 and 15 September 2014, wwith a duration of 24 academic hours.
 
-* Panel Data course, organized by the Superior Technical Institute Cristo Rey in the computer laboratories of the Faculty of Economic Sciences of the University of Guayaquil on 19, 20 and 21 July 2014 with a duration of 20 academic hours. 
+* *Panel Data course, organized* by the Superior Technical Institute Cristo Rey in the computer laboratories of the Faculty of Economic Sciences of the University of Guayaquil on 19, 20 and 21 July 2014 with a duration of 20 academic hours. 
 
-* The Average in Statistical Science course, taught by Dr. Mario Murillo organized by the Faculty of Economic Sciences of the University of Guayaquil on 25, 26, 27 and 28 November 2013 with a duration of 15 academic hours.
+* *The Average in Statistical Science course*, taught by Dr. Mario Murillo organized by the Faculty of Economic Sciences of the University of Guayaquil on 25, 26, 27 and 28 November 2013 with a duration of 15 academic hours.
 
 ## Courses offered
-* Introduction to programming in Julia, organized in Mexico City by the Autonomous Metropolitan University (Iztapalapa) with a total of 20 academic hours. It was given on January 23-27, 2023.
-* Multiagent models applied to economics, organized in Mexico City by the Autonomous Metropolitan University (Iztapalapa) with a total of 20 academic hours. It was given in October 2021.
-* Economy of complexity. An epistemological alternative, organized in Mexico City by the Metropolitan Autonomous University (Azcapotzalco) with a total of 20 academic hours. It was given in March 2021.
-* Workshop Introduction to Data Science with R, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco) with a total of 20 academic hours. It was given in January 2021.
-* Introduction to Data Science with R, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco Unit) with a total of 20 academic hours. Which was taught in September 2018.
-* Course of Descriptive Statistics applied to Foreign Trade II, organized by the Faculty of Economic Sciences of the University of Guayaquil, with a total of 12 academic hours. Which I taught on September 25, 26 and 27, 2013.
-* Course on Statistics and Econometrics, organized by the Faculty of Economic Sciences of the University of Guayaquil, with a total of 12 academic hours. Which I taught on 30, 31 October and 01 November 2013.
-* Course of Descriptive Statistics applied to Foreign Trade I, organized by the Faculty of Economic Sciences of the University of Guayaquil, with a total of 12 academic hours. Which I taught on November 13, 14 and 15, 2013.
+* *Introduction to programming in Julia*, organized in Mexico City by the Autonomous Metropolitan University (Iztapalapa) with a total of 20 academic hours. It was given on January 23-27, 2023.
+* *Multiagent models applied to economics*, organized in Mexico City by the Autonomous Metropolitan University (Iztapalapa) with a total of 20 academic hours. It was given in October 2021.
+* *Economy of complexity. An epistemological alternative*, organized in Mexico City by the Metropolitan Autonomous University (Azcapotzalco) with a total of 20 academic hours. It was given in March 2021.
+* *Workshop Introduction to Data Science with R*, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco) with a total of 20 academic hours. It was given in January 2021.
+* *Introduction to Data Science with R*, organized in Mexico City by the Autonomous Metropolitan University (Azcapotzalco Unit) with a total of 20 academic hours. Which was taught in September 2018.
+* *Course of Descriptive Statistics applied to Foreign Trade II*, organized by the Faculty of Economic Sciences of the University of Guayaquil, with a total of 12 academic hours. Which I taught on September 25, 26 and 27, 2013.
+* *Course on Statistics and Econometrics*, organized by the Faculty of Economic Sciences of the University of Guayaquil, with a total of 12 academic hours. Which I taught on 30, 31 October and 01 November 2013.
+* *Course of Descriptive Statistics applied to Foreign Trade I*, organized by the Faculty of Economic Sciences of the University of Guayaquil, with a total of 12 academic hours. Which I taught on November 13, 14 and 15, 2013.
 
 ## Lectures and conferences
 * Speaker of the work entitled "Complex Adaptive Expectations" at the Spring Research Colloquium, "Risks and the New Normal". On March 23, 2022.
